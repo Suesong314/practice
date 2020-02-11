@@ -1,1 +1,1 @@
-This is some practice for me.
+This is some practice for myself.
